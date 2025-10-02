@@ -1,3 +1,3 @@
-## Sistema de Leitura de Arquivo JSON
+# JSON File Reading System
 
-**Sistema para leitura de arquivo JSON em Python**
+**System for reading JSON files in Python**
